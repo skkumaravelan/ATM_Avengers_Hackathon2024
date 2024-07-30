@@ -6,7 +6,7 @@ This repo has been created for hackathon 2024 and all related working prototype 
 
 1. Java 11+
 2. Apache Maven 3.8.6
-3. Docker installed
+3. Docker installed ( Go to the source code where docker compose file is located & execute docker compose up -d)
 
 ## Order for running the bat and jar files:
 
