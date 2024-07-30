@@ -1,0 +1,5 @@
+Config server fetches all our configurations from GIT
+01- Serves config
+02 -Stores config
+03 - Quick change using actuator. 
+This is the concept!
